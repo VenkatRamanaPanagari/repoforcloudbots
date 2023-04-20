@@ -5,3 +5,5 @@
 *.txt
 
 !eight.net
+
+[aeiou]*.txt
